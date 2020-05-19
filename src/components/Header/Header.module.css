@@ -1,0 +1,14 @@
+.Header {
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.title {
+  display: inline-block;
+  color: #444444;
+}
+
+.title:hover {
+  text-decoration: underline;
+}

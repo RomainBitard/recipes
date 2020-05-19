@@ -1,0 +1,28 @@
+.Container {
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+@media screen and (min-width: 600px) {
+  .Container {
+    max-width: 85%;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .Container {
+    max-width: 70%;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .Container {
+    max-width: 65%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .Container {
+    max-width: 60%;
+  }
+}
