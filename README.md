@@ -1,4 +1,4 @@
-<h1 align="center">Sophia's website</h1>
+<h1 align="center">Sophia's Recipes</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/sophia_wyl">
@@ -13,13 +13,13 @@
 1. Clone the repository to your local machine
 
 ```
-git clone https://github.com/sophi-li/sophi-li.github.io.git
+git clone https://github.com/sophi-li/recipes.git
 ```
 
 2. Navigate into the repository
 
 ```
-cd sophi-li.github.io.git
+cd recipes
 ```
 
 3. Install node modules
