@@ -8,17 +8,26 @@ excerpt: 'Soft fluffy bread'
 
 ## Ingredients
 
-### Pork filling:
+#### Tangzhong:
 
-Mince 2 shallots, finely diced. Heat a saucepan with a bit of boil. Throw in shallots and cook for 5 minutes.
+- 20g bread flour
+- 27g water
+- 60g whole milk
 
-While the shallots are cooking, combine 2 tbs oyster sauce, 2 tbs hoisin sauce, 1 tsp soy sauce, 2 tsp sugar, 1/2 cup water, 2 tbsp cornstarch in a small bowl and mix well.
+#### Dough:
 
-Once shallots are toasted and fragrant, add 2 cups chopped cha sui and brown for 2-3 minutes.
+- 320g bread flour
+- 9g active dry yeast
+- 3g fine sea salt
+- 120g whole milk
+- 56g granulated sugar
+- 42g unsalted butter, softened
+- 1 whole egg, room temperature
 
-Pour in soy sauce mixture and turn up the heat to medium-high until it starts to bubble. Let it bubble for 1-2 minutes until the mixture thickens.
+#### Egg wash
 
-Set aside and let cool for later use.
+- 1 whole egg, room temp
+- splash of milk
 
 ### Tangzhong
 
@@ -32,24 +41,20 @@ Add **42g unsalted butter, softened** in small portions, about 10g at a time. Co
 
 Proof the dough in a lightly oiled bowl for about 1 hour to 1.5 hours or until doubled in size. At the end of proofing, the dough should pass the poke test.
 
-### Shaping
-
 Line a sheet tray with parchment paper.
 
-Punch down and divide the dough into 9 pieces. Shape them into balls and place them onto the sheet tray with 1 inch space between. Put the sheet tray in the fridge for 10 minutes. This will help make the dough a little less sticky and easier to shape and wrap.
+Punch down and divide the dough into 3 pieces. Shape them into balls and let rest for 10 minutes.
 
-Flatten the dough ball into a circle shaped wrapper with a rolling pin. Make sure the edges are thinner than the center.
+Roll dough ball into a 9x3 inch rectangle. Roll the rectangle down starting from the short side, so it forms a log. Pinch the seams to seal and close. This will prevent the dough from unravelling in the oven.
 
-Scoop 1 tbs of pork filling onto the center of the dough. Imagine your circle dough is an analog clock. Fold the 12 and 6 o'clock edges to meet, and then pinch together. Repeat with 9 and 3 o'clock. Then 10:30 and 4:30, and 1:30 and 7:30. Pinch all edges together to seal the seams. Make sure the bun is completely sealed so the filling doesn't leak out during the bake. Place the wrapped bun seam-side down.
+Repeat with the rest of the dough balls. Then place rolled dough seam-side down in bread pan.
 
-Repeat with the rest of the dough balls. Then place filled and sealed dough balls seam-side down with 1 inch space between.
+Preheat your oven to 350°F.
 
-Let rise for 20-30 minutes until they’re doubled in size and poofy.
-
-Preheat your oven to 360°F.
+Let rise for 30-45 minutes or until they’re doubled in size and poofy.
 
 Make egg wash by whisking together **1 whole egg & a splash of whole milk** thoroughly.
 
 Lightly brush the tops of the buns with egg wash right before putting them in the oven. It'll give them a nice shine.
 
-Bake in a preheated 350°F oven for 25-30 minutes until the tops are golden brown. Let cool for 30 minutes to prevent spilling hot liquid on yourself. Let cool for 15 minutes if you really can't wait.
+Bake in a preheated 350°F oven for 25-30 minutes until the tops are golden brown. Let cool for 30 minutes to prevent the bread from getting gummy.
