@@ -8,6 +8,8 @@
 
 > Built with Gatsby
 
+Live page: http://sophiasrecipes.com/
+
 ## Install
 
 1. Clone the repository to your local machine
