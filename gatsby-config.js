@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Sophia's Recipes",
     description: "Sophia's Recipes",
-    url: 'https://sophiasrecipes.netlify.app/',
+    url: 'https://sophiasrecipes.com',
   },
   plugins: [
     `gatsby-transformer-remark`,
