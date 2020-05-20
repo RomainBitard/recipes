@@ -3,7 +3,7 @@ path: '/honey-pecans'
 date: '2020-05-17'
 title: 'Honey Pecans'
 tags: ['snack']
-excerpt: 'Sweet & salty snack.'
+excerpt: 'Sweet & salty snack'
 ---
 
 ## Ingredients
