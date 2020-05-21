@@ -46,7 +46,7 @@ Proof the dough in a lightly oiled bowl for about 1 hour to 1.5 hours or until d
 
 Preheat oven to 375°F.
 
-Punch down dough and divide into 11 pieces. Shape them into balls. Give them at least 1-2 inches apart because they'll rise. Let rest for 5 minutes so the dough relaxes a bit. Then use your palm to flatten the dough balls a bit so the dough is disc shaped instead of a perfect sphere. Let dough discs rest for 30-45 min.
+Punch down dough and divide into 7 pieces. Shape them into balls. Give them at least 1-2 inches apart because they'll rise. Let rest for 5 minutes so the dough relaxes a bit. Then use your palm to flatten the dough balls a bit so the dough is disc shaped instead of a perfect sphere. Let dough discs rest for 30-45 min.
 
 Make the egg wash by whisking together **1 whole egg & a splash of whole milk** thoroughly.
 
