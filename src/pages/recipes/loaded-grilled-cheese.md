@@ -30,7 +30,7 @@ Place your bread, butter side down on a non-stick skillet or a cast iron pan. Ye
 
 Add your cheese mixture to each of your slices. Let it cook for 5-7 minutes or until the cheese is mostly melted. Top with **1/4 cup kimchi** on each slice.
 
-When the bottom of your bread is golden bread, about 1-2 minutes after adding kimchi, remove your slices from the pan and plate them up.
+When the bottom of your bread is golden brown, about 1-2 minutes after adding kimchi, remove your slices from the pan and plate them up.
 
 Cook **2 eggs**, sunny side up, about 1-2 minutes since your pan is still hot. Give them a small pinch of salt.
 
