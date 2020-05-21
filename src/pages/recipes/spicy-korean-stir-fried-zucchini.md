@@ -3,7 +3,7 @@ path: '/spicy-korean-stir-fried-zucchini'
 date: '2020-05-19'
 title: 'Spicy Korean Stir Fried Zucchini'
 tags: ['korean', 'spicy', 'veggie', 'side dish']
-excerpt: 'Zucchini, but make it flavor'
+excerpt: 'Zucchini, but give it flavor'
 ---
 
 ## Ingredients
