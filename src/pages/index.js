@@ -24,9 +24,8 @@ const Blog = ({
     const posts = edges || []
 
     const filteredData = posts.filter(post => {
-      const { excerpt, title, tags } = post.node.frontmatter
+      const { title, tags } = post.node.frontmatter
       return (
-        excerpt.toLowerCase().includes(query.toLowerCase()) ||
         title.toLowerCase().includes(query.toLowerCase()) ||
         (tags &&
           tags
