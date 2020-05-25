@@ -1,8 +1,8 @@
 ---
 path: '/shirleys-ceviche'
 date: '2020-05-24'
-title: 'Shirley's Ceviche'
-tags: ['dip', 'seafood', 'side dish']
+title: "Shirley's Ceviche"
+tags: ['dip', 'seafood']
 excerpt: 'Spring time favorite'
 ---
 
